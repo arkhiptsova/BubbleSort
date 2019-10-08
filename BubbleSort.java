@@ -3,7 +3,7 @@ package FeetNumber;
 import java.util.Scanner;
 
 /*
-Mila Arkhiptcova
+Mila 
 A program that implements a method that receives an array parameter
  and sorts that array using the bubble-sort algorithm show below. 
  The bubble-sort algorithm makes several passes through the array. 
@@ -11,8 +11,6 @@ A program that implements a method that receives an array parameter
  in decreasing order, its values are swapped: otherwise, the values remain
   unchanged. The technique is called a bubble sort because the smaller 
   values gradually "bubble" their way to the top.
-10/07/2019
-Bellevue University
 BubbleSort.java
 */
 public class BubbleSort {
